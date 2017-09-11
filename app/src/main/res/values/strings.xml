@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NotificationTimer</string>
+    <string name="notification_title">Title:</string>
+    <string name="notification_text">Text:</string>
+    <string name="notification_url">Url:</string>
+    <string name="notification_time">Time:</string>
+    <dimen name="default_layout_margin">10dp</dimen>
+</resources>
